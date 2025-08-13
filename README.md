@@ -16,18 +16,19 @@ Bu çalışmalar, Blender öğrenme sürecimin ilk adımlarıdır.
 - **Amaç:** Temel modelleme ve obje detaylandırma pratiği
 
 ### 📷 Önizleme
-![Koltuk Render 1](Koltuk.png)
-![Koltuk Render 2](Koltuk2.png)
+![Koltuk Render 1](Sofa%20Model/Koltuk.jpg)
+![Koltuk Render 2](Sofa%20Model/Koltuk2.jpg)
 
 ---
 
-## 📌 Model 2: Çalı ve Kaya
+## 📌 Model 2: Çimen ve Kaya
 - **İçerik:** Çimen yüzeyi + kaya
 - **Format:** `.blend`
 - **Amaç:** Doğal yüzey ve obje konumlandırma pratiği
 
 ### 📷 Önizleme
-![Çimen Render 1](Grass&Rock.png)
+![Çimen Render 1](Grass%26Rock%20Model/Grass%26Rock.jpg)
+
 
 
 ---

@@ -16,8 +16,8 @@ Bu çalışmalar, Blender öğrenme sürecimin ilk adımlarıdır.
 - **Amaç:** Temel modelleme ve obje detaylandırma pratiği
 
 ### 📷 Önizleme
-![Koltuk Render 1](Sofa%20Model/Koltuk.jpg)
-![Koltuk Render 2](Sofa%20Model/Koltuk2.jpg)
+![Koltuk Render 1](Sofa%20Model/Koltuk.png)
+![Koltuk Render 2](Sofa%20Model/Koltuk2.png)
 
 ---
 
@@ -27,7 +27,7 @@ Bu çalışmalar, Blender öğrenme sürecimin ilk adımlarıdır.
 - **Amaç:** Doğal yüzey ve obje konumlandırma pratiği
 
 ### 📷 Önizleme
-![Çimen Render 1](Grass%26Rock%20Model/Grass%26Rock.jpg)
+![Çimen Render 1](Grass%26Rock%20Model/Grass%26Rock.png)
 
 
 

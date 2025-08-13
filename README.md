@@ -21,7 +21,7 @@ Bu çalışmalar, Blender öğrenme sürecimin ilk adımlarıdır.
 
 ---
 
-## 📌 Model 2: Çimen ve Kaya
+## 📌 Model 2: Çalı ve Kaya
 - **İçerik:** Çimen yüzeyi + kaya
 - **Format:** `.blend`
 - **Amaç:** Doğal yüzey ve obje konumlandırma pratiği
@@ -34,9 +34,9 @@ Bu çalışmalar, Blender öğrenme sürecimin ilk adımlarıdır.
 
 ## 📂 Dosya Listesi
 - `koltuk.blend` → Koltuk modeli
-- `cimen_kaya.blend` → Çimen ve kaya modeli
-- `koltuk_render1.png`, `koltuk_render2.png` → Koltuk modelinin render görüntüleri
-- `cimen_render1.png`, `cimen_render2.png` → Çimen ve kaya modelinin render görüntüleri
+- `Grass&Rock.blend` → Çimen ve kaya modeli
+- `koltuk.png`, `koltuk2.png` → Koltuk modelinin render görüntüleri
+- ` Grass&Rock.png` → Çimen ve kaya modelinin render görüntüleri
 - `README.md` → Proje hakkında bilgiler
 
 ---

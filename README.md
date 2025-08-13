@@ -33,10 +33,10 @@ Bu çalışmalar, Blender öğrenme sürecimin ilk adımlarıdır.
 ---
 
 ## 📂 Dosya Listesi
-- `koltuk.blend` → Koltuk modeli
+- `Koltuk.blend` → Koltuk modeli
 - `Grass&Rock.blend` → Çimen ve kaya modeli
-- `koltuk.png`, `koltuk2.png` → Koltuk modelinin render görüntüleri
-- ` Grass&Rock.png` → Çimen ve kaya modelinin render görüntüleri
+- `Koltuk.png`, `Koltuk2.png` → Koltuk modelinin render görüntüleri
+- `Grass&Rock.png` → Çimen ve kaya modelinin render görüntüleri
 - `README.md` → Proje hakkında bilgiler
 
 ---

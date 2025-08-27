@@ -1,10 +1,11 @@
 # 🪑🌿 Blender Modellerim
 
-Bu repo, Blender kullanarak yaptığım **ilk 3D model çalışmalarımı** içeriyor.  
-İki farklı model bulunmaktadır:
+Bu repo, Blender kullanarak yaptığım **ilk 3D model çalışmalarımı** içerir.  
+Üç farklı model bulunmaktadır:
 
-1. **Koltuk Modeli** → Koltuk, minder ve yastık detaylarıyla birlikte.  
-2. **Çimen ve Kaya Modeli** → Üzerinde kaya bulunan çimen yüzeyi.
+1. **Koltuk Modeli** → Koltuk, minder ve yastık detaylarıyla birlikte  
+2. **Çimen ve Kaya Modeli** → Üzerinde kaya bulunan çimen yüzeyi  
+3. **Mutfak Modeli** → Mutfak dolapları, tezgâh ve detaylı mutfak sahnesi  
 
 Bu çalışmalar, Blender öğrenme sürecimin ilk adımlarıdır.
 
@@ -29,16 +30,29 @@ Bu çalışmalar, Blender öğrenme sürecimin ilk adımlarıdır.
 ### 📷 Önizleme
 ![Çimen Render 1](Grass%26Rock%20Model/Grass%26Rock.png)
 
+---
 
+## 📌 Model 3: Mutfak
+- **İçerik:** Mutfak dolapları, tezgâh ve detaylı mutfak sahnesi
+- **Format:** `.blend`
+- **Amaç:** İç mekân düzenleme, ışıklandırma ve detaylı modelleme pratiği
+
+### 📷 Önizleme
+![Mutfak Render 1](Kitchen/mutfak1.png)
+![Mutfak Render 2](Kitchen/mutfak2.png)
+![Mutfak Render 3](Kitchen/mutfak3.png)
+![Mutfak Render 4](Kitchen/mutfak4.png)
 
 ---
 
 ## 📂 Dosya Listesi
-- `Koltuk.blend` → Koltuk modeli
-- `Grass&Rock.blend` → Çimen ve kaya modeli
-- `Koltuk.png`, `Koltuk2.png` → Koltuk modelinin render görüntüleri
-- `Grass&Rock.png` → Çimen ve kaya modelinin render görüntüleri
-- `README.md` → Proje hakkında bilgiler
+- `Koltuk.blend` → Koltuk modeli  
+- `Grass&Rock.blend` → Çimen ve kaya modeli  
+- `Kitchen.blend` → Mutfak modeli  
+- `Koltuk.png`, `Koltuk2.png` → Koltuk renderları  
+- `Grass&Rock.png` → Çimen ve kaya renderı  
+- `mutfak1.png`, `mutfak2.png`, `mutfak3.png`, `mutfak4.png` → Mutfak renderları  
+- `README.md` → Proje hakkında bilgiler  
 
 ---
 

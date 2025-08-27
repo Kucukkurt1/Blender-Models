@@ -38,7 +38,7 @@ Bu çalışmalar, Blender öğrenme sürecimin ilk adımlarıdır.
 - **Amaç:** İç mekân düzenleme, ışıklandırma ve detaylı modelleme pratiği
 
 ### 📷 Önizleme
-![Mutfak Render 1](Kitchen/mutfak1.png)
+![Mutfak Render 1](Kitchen/mutfak.png)
 ![Mutfak Render 2](Kitchen/mutfak2.png)
 ![Mutfak Render 3](Kitchen/mutfak3.png)
 ![Mutfak Render 4](Kitchen/mutfak4.png)
